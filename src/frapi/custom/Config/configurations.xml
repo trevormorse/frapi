@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <frapi-config>
  <configurations>
-  <configuration>
-   <key>db_hostname</key>
-   <value>localhost</value>
-  </configuration>
-  <configuration>
-   <key>db_username</key>
-   <value>root</value>
-  </configuration>
-  <configuration>
-   <key>db_password</key>
-   <value>password</value>
-  </configuration>
-  <configuration>
-   <key>db_database</key>
-   <value>example</value>
-  </configuration>
-  <configuration>
+   <configuration>
    <key>api_url</key>
    <value>api.frapi</value>
   </configuration>
@@ -35,10 +19,5 @@
    <value>1</value>
    <hash>e93a8dc4d1bb0f7d7dc37d21d6307f7dfdbbdae3</hash>
   </configuration>
-  <configuration>
-   <key>db_engine</key>
-   <value>mysql</value>
-   <hash>9dcf333a185b1744f0ba4176a47cdf0e1b9b8873</hash>
-  </configuration>
- </configurations>
+  </configurations>
 </frapi-config>
