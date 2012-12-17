@@ -14,3 +14,12 @@ nbproject
 # Ignore the PhpStorm project folder
 #
 .idea
+src/frapi/admin/application/modules/default/.DS_Store
+
+src/frapi/admin/application/modules/default/controllers/.DS_Store
+
+src/frapi/admin/application/modules/default/views/scripts/params/.DS_Store
+
+src/frapi/admin/application/modules/default/views/scripts/params/delete.phtml
+
+src/frapi/admin/application/modules/default/views/scripts/.DS_Store
