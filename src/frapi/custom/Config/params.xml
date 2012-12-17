@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<frapi-config>
+ <params>
+  <param>
+   <key>myserver</key>
+   <value>http://myserver.com</value>
+   <hash>f39c04191a51665f0539991e2ca22acc9369ac20</hash>
+  </param>
+ </params>
+</frapi-config>
