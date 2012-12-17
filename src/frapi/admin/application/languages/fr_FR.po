@@ -139,6 +139,19 @@ msgstr "Le chemin (%s) n'est actuellement pas accessible en écriture par cet ut
 msgid "ACTION_DEV_SYNC_SUCCESS"
 msgstr "Environnement de développement a été synchronisé."
 
+# MIMETYPES
+
+msgid "MIMETYPES"
+msgstr "Types MIME"
+
+msgid "MIMETYPE"
+msgstr "Type MIME"
+
+msgid "OUTPUT_FORMAT"
+msgstr "Format de sortie"
+
+msgid "ADD_NEW_MIMETYPE"
+msgstr "Ajouter un nouveau type MIME"
 
 # Error section
 
